@@ -1,7 +1,6 @@
-# Wiki Example For STG Eng.
-
-Usage
-=====
+Wiki Example For STG Eng.
+===========================
+ It is just an example.
 
 .. _installation:
 
